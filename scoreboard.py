@@ -1,5 +1,4 @@
 from turtle import Turtle
-import random
 
 FONT = ("Arial", 20, "normal")
 
